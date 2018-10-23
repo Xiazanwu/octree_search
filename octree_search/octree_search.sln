@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "octree_search", "octree_search\octree_search.vcxproj", "{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Debug|x64.ActiveCfg = Debug|x64
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Debug|x64.Build.0 = Debug|x64
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Debug|x86.Build.0 = Debug|Win32
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Release|x64.ActiveCfg = Release|x64
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Release|x64.Build.0 = Release|x64
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Release|x86.ActiveCfg = Release|Win32
+		{FF249264-02C7-4106-9F5F-8CE4C5A6AD10}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AA1A48-2DE4-4A9F-B78A-4FF904A624C2}
+	EndGlobalSection
+EndGlobal
